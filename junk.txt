@@ -1,2 +1,2 @@
-Version 6.0
+Version 7.0
 junk.txt file contents
