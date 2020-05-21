@@ -7,6 +7,8 @@ more text_
 
 | GET                | POST | DELETE | PATCH |
 |--------------------|------|--------|-------|
+| _abcdef | -    | -      | -     |
+| more_ | -    | -      | -     |
 | abc_def_ | -    | -      | -     |
 | abc_def | -    | -      | -     |
 | query             | -    | -      | -     |
