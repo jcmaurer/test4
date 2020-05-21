@@ -4,6 +4,8 @@
 All collections should support the following query parameters (if applicable):
 _abc
 more text_
+~~abc
+more text~~
 
 | GET                | POST | DELETE | PATCH |
 |--------------------|------|--------|-------|
