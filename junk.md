@@ -6,6 +6,10 @@ _abc
 more text_
 ~~abc
 more text~~
+<![CDATA[.
+    End condition: line contains 
+the string ]]>
+
                   <blockquote>
                    *whatever* sfsdfsdf 
                  </blockquote>
