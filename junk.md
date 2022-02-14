@@ -9,6 +9,9 @@ more text~~
 <![CDATA[.
     End condition: line contains 
 the string ]]>
+more
+<? sfdsddsf
+?>
 
                   <blockquote>
                    *whatever* sfsdfsdf 
