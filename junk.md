@@ -1,7 +1,7 @@
 # Queries1
 ## Queries2
 ### Query Parameters
-All collections should support the following query parameters (if applicable):
+the following query parameters (if applicable):
 _abc
 more text_
 ~~abc
