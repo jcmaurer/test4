@@ -1,6 +1,8 @@
 # Queries1
 ## Queries2
 ### Query Parameters
+try *this is a test to see
+what is going on here* with italic.
 the following query parameters (if applicable):
 _abc
 more text_
